@@ -1,5 +1,5 @@
-#Hello! The things I added are under code and model test. I tried to upload everything that was from the yeast 9 model (https://www.bing.com/search?qs=HS&pq=yeast+9&sk=CSYN1&sc=5-7&q=yeast+9+model&cvid=a5632d773c3d4208ae3b1ee346bb71ae&gs_lcrp=EgRlZGdlKgcIABAAGPkHMgcIABAAGPkHMgYIARBFGDkyBggCEAAYQDIGCAMQABhAMgYIBBBFGDwyBggFEEUYPDIGCAYQRRg80gEIMzgwN2owajmoAgiwAgE&FORM=ANAB01&PC=DCTS)
-#But I am not sure if evrything is correct because Github would not allow me to upload everything. To use this properly please make sure you download the most updated version.
+Hello! The things I added are under code and model test. I tried to upload everything that was from the yeast 9 model (https://www.bing.com/search?qs=HS&pq=yeast+9&sk=CSYN1&sc=5-7&q=yeast+9+model&cvid=a5632d773c3d4208ae3b1ee346bb71ae&gs_lcrp=EgRlZGdlKgcIABAAGPkHMgcIABAAGPkHMgYIARBFGDkyBggCEAAYQDIGCAMQABhAMgYIBBBFGDwyBggFEEUYPDIGCAYQRRg80gEIMzgwN2owajmoAgiwAgE&FORM=ANAB01&PC=DCTS).
+But I am not sure if evrything is correct because Github would not allow me to upload everything. To use this properly please make sure you download the most updated version.
 #This is a project for university and although I had fun I am not sure how much further I will go on this, sorry.
 
 
